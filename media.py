@@ -4,7 +4,6 @@ import requests
 import json
 import webbrowser
 
-
 ## Create a base class (“Media”) and two subclasses (“Song” and “Movie”) that represent items in the iTunes store
 class Media:
     def __init__(self, title="No Title", author="No Author", releaseyear="No Year",url="No url",json_dict=None):
