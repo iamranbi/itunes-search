@@ -1,4 +1,4 @@
-# itunes-search
+# iTunes Search
 A simple command line tool for searching the iTunes store.
 
 ## Files
