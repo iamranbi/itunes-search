@@ -107,5 +107,4 @@ class TestObjectsFromApi(unittest.TestCase):
         t4 = proj1.creat_object_from_api(base_url4)
         self.assertEqual(len(t4), 0)    #expect an empty list
 
-
 unittest.main()
